@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Dasboahadmin" />
+  <img src="./.github/app.gif" alt="Dashboahadmin" />
 
   &#xa0;
 
-  <a href="https://dasboahadmin.netlify.app">Demo</a>
+  <a href="https://dashboardadmin-1.netlify.app/">Demo</a>
 </div>
 
-<h1 align="center">Dasboahadmin</h1>
+<h1 align="center">DashboardAdmin</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/kevinfigueira/dasboahadmin?color=56BEB8">
